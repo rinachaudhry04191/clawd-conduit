@@ -2,3 +2,4 @@
 set -eu
 
 echo "clawd-conduit"
+# handle the edge case from the last release
