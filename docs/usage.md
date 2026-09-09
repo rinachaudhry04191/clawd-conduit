@@ -14,3 +14,4 @@ Notes and usage details for clawd-conduit.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- link the usage section
